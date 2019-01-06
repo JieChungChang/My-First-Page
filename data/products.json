@@ -2,14 +2,17 @@
 [
   {
     "name":"Google Pixel 3",
-    "price":27700
+    "price":27700,
+    "description": "It's a phone" 
   },
   {
     "name":"Pixel Chromebook",
-    "price": 12000
+    "price": 12000,
+    "description": "It's a laptop" 
   },
   {
     "name":"Chromecast",
-    "price":1440
+    "price":1440,
+    "description": "It's a useful electrics" 
   }
 ]
